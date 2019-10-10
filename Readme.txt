@@ -1,3 +1,2 @@
-1-https://pjreddie.com/media/files/yolov3.weights linkinden weights dosyasını indirelim ve yolo_opencv.py ile aynı konuma koyalım.
-2-python yolo_opencv.py --image 123.jpg --searchpath "C:\Users\HP\Desktop\Yeni klasör (4)" komutu ile çalıştırabiliriz. --image ile alınan aranacak objenin 
-bulunduğuresim --searchpath ile alınan path ise aranacak resimlerin bulunduğu path.
+1-https://pjreddie.com/media/files/yolov3.weights linkinden weights dosyasÄ±nÄ± indirelim ve yolo_opencv.py ile aynÄ± konuma koyalÄ±m.
+2-python yolo_opencv.py --image 123.jpg --searchpath "C:\Users\HP\Desktop\Yeni klasÃ¶r (4)" komutu ile Ã§alÄ±ÅŸtÄ±rabiliriz. --image ile alÄ±nan aranacak objenin  bulunduÄŸu resim --searchpath ile alÄ±nan path ise aranacak resimlerin bulunduÄŸu path.
